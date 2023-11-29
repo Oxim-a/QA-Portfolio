@@ -31,7 +31,7 @@ And now I am:
 **<p align="center">Visit my LinkedIn profile 🔗 </p>** 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/aksana-kolesen-992807271"target=»_blank>
+<a href="https://www.linkedin.com/in/aksana-kolesen-992807271" target="_blank">
 <img width="600px" src="https://github.com/Oxim-a/QA-Portfolio/blob/main/Image.jpg" alt="qr"/>
 </a>
 </p>
