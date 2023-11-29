@@ -26,7 +26,9 @@ And now I am:
 - I have learned SQL, Chrome DevTools, Jira, Confluence, Postman
 - I have experience in creating VM for compatibility testing (VirtualBox, VMWare)
 - I have good knowledge of software development life cycle (Agile, V-Model)
-- I have good knowledge of software testing techniques (QA Lifecycle, Test Analysis, Test Design and Strategy)
+- I have good knowledge of testing design techniques (Equivalent class partitioning, Boundary value analysis, State transition, Pairwise Testing)
+
+Source: 5 Test Design Techniques QA Engineers Should Know - QA Madness Software testing company)
 
 **<p align="center">Visit my LinkedIn profile 🔗 </p>** 
 
@@ -38,7 +40,7 @@ And now I am:
 
 ### Projects 💻
 ***
-I have no experience in the commercial field at this moment. However, I have experience of working as an trainee on two real projects
+I have experience of working as an trainee on two real projects
 
 ☑️ ONLINE HACKATHONS PLATFORM 
 
