@@ -28,7 +28,7 @@ And now I am:
 - I have good knowledge of software development life cycle (Agile, V-Model)
 - I have good knowledge of software testing techniques (QA Lifecycle, Test Analysis, Test Design and Strategy)
 
-<p align="center"> Visit my LinkedIn profile</p>
+**<p align="center">Visit my LinkedIn profile 🔗 </p>** 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aksana-kolesen-992807271">
