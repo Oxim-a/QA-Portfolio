@@ -4,7 +4,7 @@
 3. [Projects](#projects)
 4. [Examples](#examples)
    
-### About
+### About 🔎
 ***
 Hello to everyone! I'm Aksana, junior QA specialist.
 
@@ -19,7 +19,7 @@ And now I am:
 
 ⚪ Junior software test specialist and looking for a job.
 
-### Skills
+### Skills 📚
 ***
 **What are my skills?** During my training process:
 
@@ -30,7 +30,7 @@ And now I am:
 
 ## [Visit my LinkedIn profile](https://www.linkedin.com/in/aksana-kolesen-992807271/)
 
-### Projects
+### Projects 💻
 ***
 I have no experience in the commercial field at this moment. However, I have experience of working as an trainee on two real projects
 
@@ -48,25 +48,25 @@ I have no experience in the commercial field at this moment. However, I have exp
 **Responsibilities:** Creating test plan; creating test cases, test execution, bug reports, test result reports
 **Used tools:** Confluence, Jira+X-Ray, Swagger, Postman
 
-### Examples
+### Examples 📰
 ***
 Project1 (IT Bootcamp board)
 - [Test plan](https://drive.google.com/file/d/14wHycmQVW0dkUUvZ7p1AwWidN4FUVaMw/view?usp=sharing)
 - [Test strategy](https://drive.google.com/file/d/1HjZx3APpK95e-hp5pRCWatQp6Svjn5ku/view?usp=drive_link)
-- [Test set](https://drive.google.com/file/d/1-hE2qAlJf-Zt01moknwNLLEl9l1qYW2d/view?usp=sharing)
-- [Test case](https://drive.google.com/file/d/19qW7bDgd8yITBeqaX2cYac-hCSbUL7kN/view?usp=drive_link)
-- [Test set API](https://drive.google.com/file/d/1P5FKARFhYFz4K57LlVY7B3kWGBKzxjWY/view?usp=drive_link)
-- [Test case API](https://drive.google.com/file/d/1vadF-RcXuppkDxmNu04FzqFKIdIUR55t/view?usp=drive_link)
-- [Bug report API bug](https://drive.google.com/file/d/1jE0UX_X4ydOPujuunzzmLMoZY3EYd2K7/view?usp=drive_link)
+- [Test set](https://drive.google.com/file/d/1-hE2qAlJf-Zt01moknwNLLEl9l1qYW2d/view?usp=sharing) - by module Superadmin authorization
+- [Test case](https://drive.google.com/file/d/19qW7bDgd8yITBeqaX2cYac-hCSbUL7kN/view?usp=drive_link) - by module Superadmin authorization
+- [Test set API](https://drive.google.com/file/d/1P5FKARFhYFz4K57LlVY7B3kWGBKzxjWY/view?usp=drive_link) - by module Superadmin authorization, based on Swagger autorization
+- [Test case API](https://drive.google.com/file/d/1vadF-RcXuppkDxmNu04FzqFKIdIUR55t/view?usp=drive_link) - by module Superadmin authorization, based on Swagger autorization
+- [Bug report API bug](https://drive.google.com/file/d/1jE0UX_X4ydOPujuunzzmLMoZY3EYd2K7/view?usp=drive_link) - by module Superadmin authorization, tested by Postman
 - [TRR for Sprint4](https://drive.google.com/file/d/1Vow1KEFuuqpOPShNQDsYkIE5GBKTF86z/view?usp=drive_link)
 
 Project2 (Online hackathons platform)
 
 - [Test plan](https://drive.google.com/file/d/1ao2_wJOlQEo15NYxKuF9sw0ii27dgBuJ/view?usp=drive_link)
 - [Analysis Table](https://drive.google.com/file/d/1j4NJFBhBBWbKsbtcOySlexYOp7AuL6xG/view?usp=drive_link) - Analysis of modules for testing in the form of Table of Roles and Permissions
-- [Check lists](https://drive.google.com/file/d/1PO5dkmMZbtsJm50K2kC67VhHGt3T36BD/view?usp=drive_link)
-- [Bug report](https://drive.google.com/file/d/1byjDGchj5NE-7QlJA4FyFQMy2SkAKUwq/view?usp=drive_link)
-- [TRR by assigned modules](https://drive.google.com/file/d/1-7C5EEIreSkOoIbcuR8gStj1ehWXs9Mz/view?usp=drive_link)
+- [Check lists](https://drive.google.com/file/d/1PO5dkmMZbtsJm50K2kC67VhHGt3T36BD/view?usp=drive_link) - by Analytics module
+- [Bug report](https://drive.google.com/file/d/1byjDGchj5NE-7QlJA4FyFQMy2SkAKUwq/view?usp=drive_link) - by Analytics module
+- [TRR by assigned modules](https://drive.google.com/file/d/1-7C5EEIreSkOoIbcuR8gStj1ehWXs9Mz/view?usp=drive_link) - by assigned modules
 
 
 
