@@ -50,7 +50,7 @@ I have no experience in the commercial field at this moment. However, I have exp
 
 ### Examples
 ***
-Project1
+Project1 (IT Bootcamp board)
 - [Test plan](https://drive.google.com/file/d/14wHycmQVW0dkUUvZ7p1AwWidN4FUVaMw/view?usp=sharing)
 - [Test strategy](https://drive.google.com/file/d/1HjZx3APpK95e-hp5pRCWatQp6Svjn5ku/view?usp=drive_link)
 - [Test set](https://drive.google.com/file/d/1-hE2qAlJf-Zt01moknwNLLEl9l1qYW2d/view?usp=sharing)
@@ -60,10 +60,13 @@ Project1
 - [Bug report API bug](https://drive.google.com/file/d/1jE0UX_X4ydOPujuunzzmLMoZY3EYd2K7/view?usp=drive_link)
 - [TRR for Sprint4](https://drive.google.com/file/d/1Vow1KEFuuqpOPShNQDsYkIE5GBKTF86z/view?usp=drive_link)
 
-Project2
+Project2 (Online hackathons platform)
 
+- [Test plan](https://drive.google.com/file/d/1ao2_wJOlQEo15NYxKuF9sw0ii27dgBuJ/view?usp=drive_link)
+- [Analysis Table](https://drive.google.com/file/d/1j4NJFBhBBWbKsbtcOySlexYOp7AuL6xG/view?usp=drive_link) - Analysis of modules for testing in the form of Table of Roles and Permissions
 - [Check lists](https://drive.google.com/file/d/1PO5dkmMZbtsJm50K2kC67VhHGt3T36BD/view?usp=drive_link)
 - [Bug report](https://drive.google.com/file/d/1byjDGchj5NE-7QlJA4FyFQMy2SkAKUwq/view?usp=drive_link)
+- [TRR by assigned modules](https://drive.google.com/file/d/1-7C5EEIreSkOoIbcuR8gStj1ehWXs9Mz/view?usp=drive_link)
 
 
 
