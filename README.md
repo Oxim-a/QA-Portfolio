@@ -74,6 +74,12 @@ Project2 (Online hackathons platform)
 - [Bug report](https://drive.google.com/file/d/1byjDGchj5NE-7QlJA4FyFQMy2SkAKUwq/view?usp=drive_link) - by Analytics module
 - [TRR by assigned modules](https://drive.google.com/file/d/1-7C5EEIreSkOoIbcuR8gStj1ehWXs9Mz/view?usp=drive_link) - by assigned modules
 
+Tasks
+- [Test task](https://docs.google.com/spreadsheets/d/1mH3ovOy90-pZUXX3EOcY6QUHL_2vyD3Od0lbJ7JXX-o/edit?usp=sharing) - bug reports on registration, login by password and profile modules ecobar.by
+- [Test task SOAP](https://docs.google.com/spreadsheets/d/15nD5YAAWkoiCeBSZIrubA4bGhe34jaRe/edit?usp=sharing&ouid=104832572479807044288&rtpof=true&sd=true) - test SOAP WS to cover work with tasks at users.bugred.ru
+- [Postman](https://drive.google.com/file/d/16itUBAdBbYG7KZd9rS-DAYfQY4wDwqaJ/view?usp=drive_link) - Postman collection for Project1
+- [SOAP](https://drive.google.com/file/d/1LSf5icY5qxMPybuNhz3j0AYB6l0AbMjZ/view?usp=drive_link) -  SOAP collection for test task users.bugred.ru
+
 
 
 
