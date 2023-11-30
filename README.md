@@ -28,7 +28,6 @@ And now I am:
 - I have good knowledge of software development life cycle (Agile, V-Model)
 - I have good knowledge of testing design techniques (Equivalent class partitioning, Boundary value analysis, State transition, Pairwise Testing)
 
-Source: 5 Test Design Techniques QA Engineers Should Know - QA Madness Software testing company)
 
 **<p align="center">Visit my LinkedIn profile 🔗 </p>** 
 
@@ -53,7 +52,7 @@ I have experience of working as an trainee on two real projects
 
 **Project role:** Software Testing Specialist. \
 **Project description:** An informative website that gives potential participants an idea of what IT Bootcamp is and how it works \
-**Responsibilities:** Creating test plan; creating test cases, test execution, bug reports, test result reports
+**Responsibilities:** Creating test plan; creating test cases, test execution, bug reports, test result reports \
 **Used tools:** Confluence, Jira+X-Ray, Swagger, Postman
 
 ### Examples 📰
