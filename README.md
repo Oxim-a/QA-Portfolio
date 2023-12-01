@@ -26,7 +26,7 @@ And now I am:
 - I have learned SQL, Chrome DevTools, Jira, Confluence, Postman
 - I have experience in creating VM for compatibility testing (VirtualBox, VMWare)
 - I have good knowledge of software development life cycle (Agile, V-Model)
-- I have good knowledge of testing design techniques (Equivalent class partitioning, Boundary value analysis, State transition, Pairwise Testing)
+- I have good knowledge of test design techniques (Equivalent class partitioning, Boundary value analysis, State transition, Pairwise Testing)
 
 
 **<p align="center">Visit my LinkedIn profile 🔗 </p>** 
