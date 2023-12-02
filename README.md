@@ -81,6 +81,7 @@ Tasks
 - [Test task SOAP](https://docs.google.com/spreadsheets/d/15nD5YAAWkoiCeBSZIrubA4bGhe34jaRe/edit?usp=sharing&ouid=104832572479807044288&rtpof=true&sd=true) - test SOAP WS to cover work with tasks at users.bugred
 - [Postman](https://drive.google.com/file/d/16itUBAdBbYG7KZd9rS-DAYfQY4wDwqaJ/view?usp=drive_link) - Postman collection for Project1
 - [SOAP](https://drive.google.com/file/d/1LSf5icY5qxMPybuNhz3j0AYB6l0AbMjZ/view?usp=drive_link) -  SOAP collection for test task users.bugred
+- [SQL](https://docs.google.com/document/d/1vTVqlcNgB5hmpDA1zmOjHEKokaSXbdL8/edit?usp=drive_link&ouid=104832572479807044288&rtpof=true&sd=true) - DataBase
 
 
 
