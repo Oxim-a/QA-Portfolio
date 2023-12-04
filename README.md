@@ -55,6 +55,10 @@ I have experience of working as an trainee on two real projects
 **Responsibilities:** Creating test plan; creating test cases, test execution, bug reports, test result reports \
 **Used tools:** Confluence, Jira+X-Ray, Swagger, Postman
 
+### CV
+***
+[My CV](https://drive.google.com/file/d/11_nn9Kw0yKVHFgvOj2vMTHPGAKkhmiBA/view?usp=drive_link)
+
 ### Examples 📰
 ***
 Project1 (IT Bootcamp board)
