@@ -2,7 +2,8 @@
 1. [About](#about)
 2. [Skills](#skills)
 3. [Projects](#projects)
-4. [Examples](#examples)
+4. [CV](#cv)
+5. [Examples](#examples)
    
 ### About 🔎
 ***
