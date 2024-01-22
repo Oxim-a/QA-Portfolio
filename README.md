@@ -67,8 +67,8 @@ Project1 (IT Bootcamp board)
 - [Test strategy](https://drive.google.com/file/d/1HjZx3APpK95e-hp5pRCWatQp6Svjn5ku/view?usp=drive_link)
 - [Test set](https://drive.google.com/file/d/1-hE2qAlJf-Zt01moknwNLLEl9l1qYW2d/view?usp=sharing) - by module Superadmin authorization
 - [Test case](https://drive.google.com/file/d/19qW7bDgd8yITBeqaX2cYac-hCSbUL7kN/view?usp=drive_link) - by module Superadmin authorization
-- [Test set API](https://drive.google.com/file/d/1P5FKARFhYFz4K57LlVY7B3kWGBKzxjWY/view?usp=drive_link) - by module Superadmin authorization, based on Swagger autorization
-- [Test case API](https://drive.google.com/file/d/1vadF-RcXuppkDxmNu04FzqFKIdIUR55t/view?usp=drive_link) - by module Superadmin authorization, based on Swagger autorization
+- [Test set API](https://drive.google.com/file/d/1P5FKARFhYFz4K57LlVY7B3kWGBKzxjWY/view?usp=drive_link) - by module Superadmin authorization, based on Swagger documentation
+- [Test case API](https://drive.google.com/file/d/1vadF-RcXuppkDxmNu04FzqFKIdIUR55t/view?usp=drive_link) - by module Superadmin authorization, based on Swagger documentation
 - [Bug report](https://drive.google.com/file/d/10lJtfHb0MehgGJ0Dp2Mlf5el7JI8kvEF/view?usp=drive_link) - edit profile module
 - [Bug report API](https://drive.google.com/file/d/1jE0UX_X4ydOPujuunzzmLMoZY3EYd2K7/view?usp=drive_link) - by module Superadmin authorization, tested by Postman
 - [TRR for Sprint4](https://drive.google.com/file/d/1Vow1KEFuuqpOPShNQDsYkIE5GBKTF86z/view?usp=drive_link)
