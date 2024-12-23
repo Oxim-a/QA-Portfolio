@@ -14,7 +14,7 @@ I can't say that testing is something fundamentally new in my life. For many yea
 That's why I: 
 
 ⚪ Completed software testing courses at the IT Academy \
-⚪ I am doing an internship in ITBootcamp
+⚪ I completed an internship at ITBootcamp
 
 And now I am: 
 
