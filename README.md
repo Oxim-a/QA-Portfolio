@@ -58,7 +58,7 @@ I have experience of working as an trainee on two real projects
 
 ### CV
 ***
-[My CV](https://drive.google.com/file/d/1aerNCyoKj8NfbL-cKQSLPfp49_8msJXL/view?usp=sharing)
+[My CV](https://drive.google.com/file/d/13m16rCzIGFNBP-6D7zkf3v6NhWEBMvA2/view?usp=sharing)
 
 ### Examples 📰
 ***
