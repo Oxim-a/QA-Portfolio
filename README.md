@@ -7,7 +7,7 @@
    
 ### About 🔎
 ***
-Hello to everyone! I'm Aksana, junior QA specialist.
+Hello to everyone! I'm Aksana, QA specialist.
 
 I can't say that testing is something fundamentally new in my life. For many years I've been working with web content, websites, and I've crossed paths with testing in one way or another. I just decided that it was time to go deeper into this area.
 
