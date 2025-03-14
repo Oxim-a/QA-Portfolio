@@ -44,21 +44,21 @@ I have experience of working as an trainee on two real projects
 **Project role:** Software Testing Specialist. \
 **Project description:** Online platform for organizing and holding hackathons.  \
 **Responsibilities:** Creating test plan; estimation by modules, creating check lists, test execution, bug reports, test report by assigned modules; managing bugs to the team's board \
-**Used tools:** Confluence, Jira. \
+**Used tools:** Confluence, Jira. 
 
 ☑️ IT BOOTCAMP BOARD 
 
 **Project role:** Software Testing Specialist. \
 **Project description:** An informative website that gives potential participants an idea of what IT Bootcamp is and how it works \
 **Responsibilities:** Creating test plan; creating test cases, test execution, bug reports, test result reports \
-**Used tools:** Confluence, Jira+X-Ray, Swagger, Postman \
+**Used tools:** Confluence, Jira+X-Ray, Swagger, Postman 
 
 ☑️  Video surveillance equipment
 
 **Project role:** Software Testing Specialist. \
 **Project description:** Testing the software of video surveillance equipment.  \
 **Responsibilities:** Firmware testing , test execution, bug reports,  \
-**Used tools:** Confluence, Jira, Tera Term, PyCharm \
+**Used tools:** Confluence, Jira, Tera Term, PyCharm 
 
 ### CV
 ***
