@@ -7,11 +7,13 @@
    
 ### About 🔎
 ***
-Hello to everyone! I'm Aksana, QA specialist.
+QA Engineer with hands-on experience in IoT, web, and API testing. 
+Over a year of commercial experience testing firmware for surveillance cameras, base stations, and smart devices.
 
-⚪ Completed software testing courses at the IT Academy 
-⚪ I completed an internship at ITBootcamp
-⚪ For over a year I have been working in the IoT testing industry
+Skilled in functional, regression, and API testing, as well as firmware validation including upgrade and downgrade scenarios. 
+Experienced in analyzing logs, working with Linux command line, and investigating issues using DevTools.
+
+Strong focus on system stability, edge cases, and delivering high-quality software in Agile environments.
 
 And now I am: 
 
@@ -19,12 +21,12 @@ And now I am:
 
 ### Skills 📚
 ***
-**What are my skills?** During my training process:
-
-- I have learned SQL, Chrome DevTools, Jira, Confluence, Postman
-- I have experience in creating VM for compatibility testing (VirtualBox, VMWare)
-- I have good knowledge of software development life cycle (Agile, V-Model)
-- I have good knowledge of test design techniques (Equivalent class partitioning, Boundary value analysis, State transition, Pairwise Testing)
+Testing: Manual testing, Functional, Regression, API testing, Localization testing  
+Tools: Jira, Confluence, Postman, Swagger, Chrome DevTools, PyCharm  
+Tech: REST API, JSON, Client-server architecture, Linux (basic)  
+Practices: Test case design, Bug reporting, Log analysis  
+Methodologies: Agile (Scrum), SDLC  
+Language: English (B1)
 
 
 **<p align="center">Visit my LinkedIn profile 🔗 </p>** 
