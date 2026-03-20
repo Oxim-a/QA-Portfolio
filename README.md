@@ -41,27 +41,37 @@ Language: English (B1)
 ***
 I have experience of working as an trainee on two real projects
 
-☑️ ONLINE HACKATHONS PLATFORM 
+☑️ Online Hackathons Platform  
 
-**Project role:** Software Testing Specialist. \
-**Project description:** Online platform for organizing and holding hackathons.  \
-**Responsibilities:** Creating test plan; estimation by modules, creating check lists, test execution, bug reports, test report by assigned modules; managing bugs to the team's board \
-**Used tools:** Confluence, Jira. 
+• Tested web platform for managing and organizing hackathons  
+• Performed functional testing of user workflows, forms, and data validation  
+• Created test cases, checklists, and executed test scenarios  
+• Reported and tracked defects in Jira, maintaining clear documentation  
+• Collaborated with team using Agile (Scrum) practices  
 
-☑️ IT BOOTCAMP BOARD 
+Tools: Jira, Confluence  
 
-**Project role:** Software Testing Specialist. \
-**Project description:** An informative website that gives potential participants an idea of what IT Bootcamp is and how it works \
-**Responsibilities:** Creating test plan; creating test cases, test execution, bug reports, test result reports \
-**Used tools:** Confluence, Jira+X-Ray, Swagger, Postman 
+---
 
-☑️  Video surveillance equipment
+☑️ IT Bootcamp Board  
 
-**Project role:** Software Testing Specialist. \
-**Project description:** Testing the software of video surveillance equipment.  \
-**Responsibilities:** Firmware testing , test execution, bug reports,  \
-**Used tools:** Confluence, Jira, Tera Term, PyCharm 
+• Tested informational web platform and its core functionality  
+• Created and executed test cases based on requirements  
+• Tested REST APIs using Postman and Swagger, validating response data and error handling  
+• Reported defects and contributed to test reporting  
 
+Tools: Jira, Confluence, X-Ray, Postman, Swagger  
+
+---
+
+☑️ Video Surveillance Equipment (IoT)  
+
+• Performed firmware testing of IoT devices, including surveillance cameras and related equipment  
+• Executed functional testing and validated device behavior across different scenarios  
+• Tested interaction between devices and supporting systems  
+• Reported defects with detailed logs and reproduction steps  
+
+Tools: Jira, Confluence, Tera Term, PyCharm  
 ### CV
 ***
 [My CV](https://drive.google.com/file/d/1kvkFkKsf570b7wuXDcKw1VgWUpHjEwcb/view?usp=sharing)
